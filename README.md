@@ -9,6 +9,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanthgowda17/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/divyanthgowda17/DSA/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanthgowda17/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1929-concatenation-of-array](https://github.com/divyanthgowda17/DSA/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanthgowda17/DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/divyanthgowda17/DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
