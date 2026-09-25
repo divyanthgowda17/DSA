@@ -19,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/divyanthgowda17/DSA/tree/master/0412-fizz-buzz) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/divyanthgowda17/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -41,9 +42,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/divyanthgowda17/DSA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/divyanthgowda17/DSA/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/divyanthgowda17/DSA/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/divyanthgowda17/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
