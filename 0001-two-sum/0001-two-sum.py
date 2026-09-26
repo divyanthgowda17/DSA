@@ -5,6 +5,4 @@ class Solution:
             needed = target - num
             if needed in seen:
                 return[seen[needed],i]
-            seen[num] = i
-
-            
+            seen[num] = i          
